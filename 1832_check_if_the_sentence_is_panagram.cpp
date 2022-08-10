@@ -13,3 +13,6 @@ public:
         return true;
     }
 };
+
+// Time Complexity: 0(n)
+// Space Complexity: 0(1) 
